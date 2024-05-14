@@ -1,0 +1,28 @@
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting Characters\bin\Debug\net8.0\Counting Characters.exe
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting Characters\bin\Debug\net8.0\Counting Characters.deps.json
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting Characters\bin\Debug\net8.0\Counting Characters.runtimeconfig.json
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting Characters\bin\Debug\net8.0\Counting Characters.dll
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting Characters\bin\Debug\net8.0\Counting Characters.pdb
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting Characters\obj\Debug\net8.0\Counting Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting Characters\obj\Debug\net8.0\Counting Characters.AssemblyInfoInputs.cache
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting Characters\obj\Debug\net8.0\Counting Characters.AssemblyInfo.cs
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting Characters\obj\Debug\net8.0\Counting Characters.csproj.CoreCompileInputs.cache
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting Characters\obj\Debug\net8.0\Counting Characters.dll
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting Characters\obj\Debug\net8.0\refint\Counting Characters.dll
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting Characters\obj\Debug\net8.0\Counting Characters.pdb
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting Characters\obj\Debug\net8.0\Counting Characters.genruntimeconfig.cache
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting Characters\obj\Debug\net8.0\ref\Counting Characters.dll
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting-Characters\bin\Debug\net8.0\Counting Characters.exe
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting-Characters\bin\Debug\net8.0\Counting Characters.deps.json
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting-Characters\bin\Debug\net8.0\Counting Characters.runtimeconfig.json
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting-Characters\bin\Debug\net8.0\Counting Characters.dll
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting-Characters\bin\Debug\net8.0\Counting Characters.pdb
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting-Characters\obj\Debug\net8.0\Counting Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting-Characters\obj\Debug\net8.0\Counting Characters.AssemblyInfoInputs.cache
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting-Characters\obj\Debug\net8.0\Counting Characters.AssemblyInfo.cs
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting-Characters\obj\Debug\net8.0\Counting Characters.csproj.CoreCompileInputs.cache
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting-Characters\obj\Debug\net8.0\Counting Characters.dll
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting-Characters\obj\Debug\net8.0\refint\Counting Characters.dll
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting-Characters\obj\Debug\net8.0\Counting Characters.pdb
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting-Characters\obj\Debug\net8.0\Counting Characters.genruntimeconfig.cache
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\Counting-Characters\Counting-Characters\obj\Debug\net8.0\ref\Counting Characters.dll
